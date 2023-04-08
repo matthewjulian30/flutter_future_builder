@@ -1,6 +1,6 @@
-# flutter_future_builder
+# Flutter Future Builder
 
-A new Flutter project.
+My new flutter project using FutureBuilder.
 
 ## Getting Started
 
